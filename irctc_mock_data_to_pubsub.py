@@ -5,6 +5,7 @@ import uuid
 import json
 from datetime import datetime, timedelta
 
+
 # Configuration
 project_id = "gds-project-432013"
 topic_id = "irctc-data"
